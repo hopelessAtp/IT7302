@@ -1,0 +1,7 @@
+c:\Users\leon\documents\visual studio 2012\Projects\Demo\TextBox\obj\Debug\TextBox1.Form2.resources
+c:\Users\leon\documents\visual studio 2012\Projects\Demo\TextBox\obj\Debug\TextBox.Properties.Resources.resources
+c:\Users\leon\documents\visual studio 2012\Projects\Demo\TextBox\obj\Debug\TextBoxControls.csproj.GenerateResource.Cache
+c:\Users\leon\documents\visual studio 2012\Projects\Demo\TextBox\obj\Debug\TextBox.exe
+c:\Users\leon\documents\visual studio 2012\Projects\Demo\TextBox\obj\Debug\TextBox.pdb
+c:\Users\leon\documents\visual studio 2012\Projects\Demo\TextBox\bin\Debug\TextBox.exe.config
+c:\Users\leon\documents\visual studio 2012\Projects\Demo\TextBox\obj\Debug\TextBoxControls.Form2.resources
