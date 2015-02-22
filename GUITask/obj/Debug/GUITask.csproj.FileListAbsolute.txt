@@ -1,0 +1,13 @@
+C:\Users\leon\Documents\Visual Studio 2012\Projects\Demo\IT7302\GUITask\bin\Debug\GUILab.exe.config
+C:\Users\leon\Documents\Visual Studio 2012\Projects\Demo\IT7302\GUITask\bin\Debug\GUILab.exe
+C:\Users\leon\Documents\Visual Studio 2012\Projects\Demo\IT7302\GUITask\bin\Debug\GUILab.pdb
+C:\Users\leon\Documents\Visual Studio 2012\Projects\Demo\IT7302\GUITask\obj\Debug\GUITask.CheckedListBoxTest.resources
+C:\Users\leon\Documents\Visual Studio 2012\Projects\Demo\IT7302\GUITask\obj\Debug\GUITask.InterestCalculatorForm.resources
+C:\Users\leon\Documents\Visual Studio 2012\Projects\Demo\IT7302\GUITask\obj\Debug\GUITask.ListBoxTest.resources
+C:\Users\leon\Documents\Visual Studio 2012\Projects\Demo\IT7302\GUITask\obj\Debug\GUITask.MenuTestForm.resources
+C:\Users\leon\Documents\Visual Studio 2012\Projects\Demo\IT7302\GUITask\obj\Debug\GUITask.TabPageTest.resources
+C:\Users\leon\Documents\Visual Studio 2012\Projects\Demo\IT7302\GUITask\obj\Debug\GUITask.ToolTipDemonstration.resources
+C:\Users\leon\Documents\Visual Studio 2012\Projects\Demo\IT7302\GUITask\obj\Debug\GUILab.Properties.Resources.resources
+C:\Users\leon\Documents\Visual Studio 2012\Projects\Demo\IT7302\GUITask\obj\Debug\GUITask.csproj.GenerateResource.Cache
+C:\Users\leon\Documents\Visual Studio 2012\Projects\Demo\IT7302\GUITask\obj\Debug\GUILab.exe
+C:\Users\leon\Documents\Visual Studio 2012\Projects\Demo\IT7302\GUITask\obj\Debug\GUILab.pdb
